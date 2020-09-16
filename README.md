@@ -19,11 +19,12 @@
 
 Special Note: In order to run in under 5 seconds in the RSPEC test, please close all other applications.
 
+![alt text](https://user-images.githubusercontent.com/7945439/93390520-0dfa2180-f82b-11ea-8c5e-bb86ce504bf7.png)
 
 ## Contributors:
-Jose Lopez - [Github](https://github.com/JoseLopez235)
-Michael Foy - [Github](https://github.com/foymikek)
-Sheryl Stillman - [Github](https://github.com/stillsheryl)
+  - Jose Lopez - [Github](https://github.com/JoseLopez235)  
+  - Michael Foy - [Github](https://github.com/foymikek)  
+  - Sheryl Stillman - [Github](https://github.com/stillsheryl)
 
 Starter repository for the [Turing School](https://turing.io/) Futbol project.
 
